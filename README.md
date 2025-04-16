@@ -1,4 +1,5 @@
 # demo
 my first repo
 <br>
-Author : Ismail
+Author : Mohammed Ismail khan
+
